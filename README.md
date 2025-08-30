@@ -4,14 +4,6 @@ Sou estudante e desenvolvedor apaixonado por tecnologia, programação e soluç�
 Aqui no meu GitHub você vai encontrar meus projetos, estudos e experimentos em programação 🚀
 
 ---
-## 🔎 Sobre mim  
-
-- **Estudante de Informática para Internet** na ETEC, sempre em busca de evolução no mundo da tecnologia.  
-- **Experiência em desenvolvimento web** com foco em **JavaScript, HTML, CSS e Node.js**.  
-- **Conhecimentos em bancos de dados relacionais** (MySQL) para estruturar e otimizar armazenamento de informações.  
-- **Interesse em projetos fullstack**, unindo Frontend e Backend para criar soluções completas.  
-- **Apaixonado por tecnologia e finanças**, compartilho aprendizados também no meu canal **Primo CLT** no YouTube.  
-- **Valorizo código limpo e boas práticas**, sempre buscando aprender mais e aplicar no dia a dia.  
 
 ### 🚀 Tecnologias & Ferramentas
 
@@ -32,6 +24,17 @@ Aqui no meu GitHub você vai encontrar meus projetos, estudos e experimentos em 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/>
 </p>
+
+
+
+## 🔎 Sobre mim  
+
+- **Estudante de Informática para Internet** na ETEC, sempre em busca de evolução no mundo da tecnologia.  
+- **Experiência em desenvolvimento web** com foco em **JavaScript, HTML, CSS e Node.js**.  
+- **Conhecimentos em bancos de dados relacionais** (MySQL) para estruturar e otimizar armazenamento de informações.  
+- **Interesse em projetos fullstack**, unindo Frontend e Backend para criar soluções completas.  
+- **Apaixonado por tecnologia e finanças**, compartilho aprendizados também no meu canal **Primo CLT** no YouTube.  
+- **Valorizo código limpo e boas práticas**, sempre buscando aprender mais e aplicar no dia a dia.  
 
 ---
 
