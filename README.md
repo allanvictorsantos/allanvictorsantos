@@ -31,7 +31,7 @@ Aqui no meu GitHub você vai encontrar meus projetos, estudos e experimentos em 
 - **Experiência em desenvolvimento web** com foco em **JavaScript, HTML, CSS e Node.js**.  
 - **Conhecimentos em bancos de dados relacionais** (MySQL) para estruturar e otimizar armazenamento de informações.  
 - **Interesse em projetos fullstack**, unindo Frontend e Backend para criar soluções completas.  
-- **Apaixonado por tecnologia e finanças**, compartilho aprendizados também no meu canal **Primo CLT** no YouTube.  
+- **Apaixonado por tecnologia e finanças**, compartilho aprendizados também no meu canal **O menino dos investimentos** no YouTube 
 - **Valorizo código limpo e boas práticas**, sempre buscando aprender mais e aplicar no dia a dia.  
 
 ---
