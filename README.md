@@ -5,7 +5,7 @@ Aqui no meu GitHub você vai encontrar meus projetos, estudos e experimentos em 
 
 ---
 
-### 🚀 Tecnologias & Ferramentas
+### 🚀 Tecnologias & Ferramentas que utilizo e estudo no meu dia a dia:
 
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
