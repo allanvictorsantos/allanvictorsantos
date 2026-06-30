@@ -26,7 +26,7 @@ Aqui no meu GitHub você vai encontrar meus projetos, estudos e experimentos em 
 
 ## 🔎 Sobre mim  
 
-- **Estudante de Informática para Internet** na ETEC, sempre em busca de evolução no mundo da tecnologia.  
+- **Estudante de Ciência da Computação** na FIAP, sempre em busca de evolução no mundo da tecnologia.  
 - **Experiência em desenvolvimento web** com foco em **JavaScript, HTML, CSS e Node.js**.  
 - **Conhecimentos em bancos de dados relacionais** (MySQL) para estruturar e otimizar armazenamento de informações.  
 - **Interesse em projetos fullstack**, unindo Frontend e Backend para criar soluções completas.  
